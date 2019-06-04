@@ -1,5 +1,5 @@
 # TO-DO: Complete the selection_sort() function below 
-array = [4,8,5,4,5,2,7,1]   
+array = [11,4,8,5,4,5,2,7,1, 100]   
 
 def selection_sort( arr ):
     # loop through n-1 elements
